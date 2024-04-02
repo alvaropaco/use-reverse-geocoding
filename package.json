@@ -35,6 +35,17 @@
   },
   "name": "use-reverse-geocoding",
   "author": "Álvaro Paçó",
+  "description": "A React hook to reverse geocode coordinates",
+  "repository": "git@github.com:alvaropaco/use-reverse-geocoding.git",
+  "keywords": [
+    "react",
+    "hook",
+    "reverse",
+    "geocoding",
+    "coordinates",
+    "location",
+    "address"
+  ],
   "module": "dist/use-reverse-geocoding.esm.js",
   "size-limit": [
     {

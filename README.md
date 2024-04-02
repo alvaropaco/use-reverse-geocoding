@@ -1,4 +1,4 @@
-# useReverseGeocoding
+# useReverseGeocoding [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=alvaropaco_use-reverse-geocoding&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=alvaropaco_use-reverse-geocoding) [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=alvaropaco_use-reverse-geocoding&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=alvaropaco_use-reverse-geocoding) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=alvaropaco_use-reverse-geocoding&metric=bugs)](https://sonarcloud.io/summary/new_code?id=alvaropaco_use-reverse-geocoding)
 
 A React hook for performing reverse geocoding using OpenStreetMap's Nominatim API. Easily convert latitude and longitude coordinates into human-readable addresses in your React applications.
 
