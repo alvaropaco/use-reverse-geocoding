@@ -17,7 +17,7 @@ Here's a quick example to get you started:
 
 ```jsx
 import React from 'react';
-import useReverseGeocoding from 'your-package-name';
+import useReverseGeocoding from 'use-reverse-geocoding';
 
 const App = () => {
   const { loading, error, address } = useReverseGeocoding(51.505, -0.09);
